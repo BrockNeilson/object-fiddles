@@ -10,4 +10,4 @@ Object Fiddles
 * **anotherUserObj** http://jsfiddle.net/47SUN/ ==== http://jsfiddle.net/bmneilson/47SUN/15/
 * **firstMethod** http://jsfiddle.net/eGyLD/ ======= http://jsfiddle.net/bmneilson/eGyLD/15/
 * **theSquad** http://jsfiddle.net/j9rdQ/ ========== http://jsfiddle.net/bmneilson/j9rdQ/27/
-* **deepBreathe** http://jsfiddle.net/suH42/5/ ===== 
+* **deepBreathe** http://jsfiddle.net/suH42/5/ ===== http://jsfiddle.net/bmneilson/suH42/18/
