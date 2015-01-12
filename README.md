@@ -1,3 +1,19 @@
+Object Practice
+=========
+##### Fork this repo, clone your fork, then open practice.js and complete all the activities.
+* COMMIT AND PUSH YOUR CODE OFTEN!
+
+### Learning Objectives
+  - how Objects differ from Arrays
+  - use cases for objects
+  - how to create and add properties/values to objects
+  - how to loop through objects
+  - how to create and invoke a method
+  - bracket notation vs dot notation
+  - how to remove keys/props from objects (delete)
+
+ //PREVIOUS PROJECT (FALL 2014 COHORT) FIDDLES //
+
 Object Fiddles
 ==============
 * **meObject** http://jsfiddle.net/5Ua3r/ ========== http://jsfiddle.net/bmneilson/5Ua3r/43/
